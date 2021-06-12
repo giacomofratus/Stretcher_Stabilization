@@ -12,6 +12,10 @@ Files with "Uncompensated" in name have results for uncompensated system. Other 
 
 3SDBelow.doc: Results for {misc,gust,step,sin} disturbance on 3SD Below Average body
 
+Empty Stretcher Max Gust.doc: Results for {maxgust} disturbance on Empty Stretcher
+
+Empty Stretcher Max Step.doc: Results for {maxstep} disturbance on Empty Stretcher
+
 Empty Stretcher.doc: Results for {misc,gust,step,sin} disturbance on Empty Stretcher
 
 Head AvgBody Misc.doc:  Results for {misc} disturbance with Head Position on Average body
