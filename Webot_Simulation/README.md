@@ -1,3 +1,5 @@
+Files with "Uncompensated" in name have results for uncompensated system. Other files have results for compensated system
+
 150kg.doc: Results for {misc,gust,step,sin} disturbance on 150kg body
 
 1Off.doc:  Results for {misc} disturbance with 1 Device Off Center on Average body
